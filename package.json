@@ -4,7 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lesson1": "node lesson-1-basics.js",
+    "lesson2": "node lesson-2-modules.js",
+    "lesson3": "node lesson-3-callbacks.js",
+    "lesson4": "node lesson-4-promises.js",
+    "lesson5": "node lesson-5-async-await.js",
+    "lesson7": "node lesson-7-file-system.js",
+    "lesson9": "node lesson-9-events.js",
+    "lesson10": "node lesson-10-http-server.js",
+    "lesson11": "node lesson-11-rest-api.js"
   },
   "keywords": [],
   "author": "",
